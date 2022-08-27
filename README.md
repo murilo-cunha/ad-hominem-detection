@@ -16,11 +16,11 @@ During the project, **several classifiers and network architectures** were revie
 
 These features are combined into a classification network, resulting in a labeling as _ad hominem_ or _no ad hominem_.
 
-![Network description](network.png)
+![Network description](public/network.png)
 
 The network had the following confusion matrix as output, when it was trained on X and tested on 8018 paragraphs.
 
-![Confusion matrix](conf_matrix.png)
+![Confusion matrix](public/conf_matrix.png)
 
 # Getting started with the project
 
